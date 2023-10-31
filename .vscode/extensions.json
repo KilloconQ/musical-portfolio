@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
   "recommendations": ["astro-build.astro-vscode", "bradlc.vscode-tailwindcss"],
+=======
+  "recommendations": ["astro-build.astro-vscode"],
+>>>>>>> fb76ac2 (first commit)
   "unwantedRecommendations": []
 }
